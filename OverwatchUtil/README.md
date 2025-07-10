@@ -10,3 +10,4 @@ who have not had their role set yet.
 Patch your voice into someone elses head while in overwatch.
 You will be able to hear that person no matter who you spectate,
 and that person can hear you as well.
+
